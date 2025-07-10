@@ -8,7 +8,7 @@ Repositorio para trabajar pullrequests por parte del alumnado de AADD curso 25-2
 
 ###
 
-<h2 align="left">Tecnologías y plataformas utilizadas</h2>
+<h2 align="left">Tecnologías y plataformas utilizadas:</h2>
 
 ###
 
@@ -42,6 +42,16 @@ Familiarizarse con la promoción de código en el entorno empresarial donde el d
 
 6. **Haz un Pull Request de tu rama ApellidosNombre a mi rama main.**  
    Con ello me llegará una petición para integrar los cambios que propones en mi repositorio... Yo decido si hacerlo y cuándo. :lock:
+
+###
+
+<h2 align="left">Buenas prácticas para el usuario que hace PR:</h2>
+
+   - Mantener su fork y rama actualizados con el repositorio original para minimizar sorpresas.
+
+   - Revisar en GitHub si hay conflictos reportados en la PR (GitHub indica si la PR se puede fusionar automáticamente o no).
+
+   - Resolver conflictos localmente antes de pedir merge.
 
 ###
 
