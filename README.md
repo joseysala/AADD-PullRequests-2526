@@ -40,7 +40,7 @@ Familiarizarse con la promoción de código en el entorno empresarial donde el d
 
 5. **Sincroniza tus cambios a tu repositorio remoto.**  
 
-6. **Haz un Pull Request de tu rama ApellidosNombre a mi rama dev.**  
+6. **Haz un Pull Request de tu rama ApellidosNombre a mi rama main.**  
    Con ello me llegará una petición para integrar los cambios que propones en mi repositorio... Yo decido si hacerlo y cuándo. :lock:
 
 ###
