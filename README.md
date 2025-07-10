@@ -34,9 +34,9 @@ Familiarizarse con la promoción de código en el entorno empresarial donde el d
 
 2. **Crea una rama llamada *ape1Nom* donde ape1 es tu primer apellido y Nom, tu nombre.**  
 
-3. **Crea un fichero txt llamado <ape1Nom>.txt donde ape1 es tu primer apellido y Nom, tu nombre. El contenido debe ser tu nombre y primer apellido.**  
+3. **Crea un fichero txt llamado *ape1Nom.txt* donde ape1 es tu primer apellido y Nom, tu nombre. El contenido debe ser tu nombre y primer apellido.**  
    
-4. **Edita el fichero readme.md y añádete al final de la lista de colaboradores.**  
+4. **Edita el fichero *readme.md* y añádete al final de la lista de colaboradores.**  
 
 5. **Sincroniza tus cambios a tu repositorio remoto.**  
 
